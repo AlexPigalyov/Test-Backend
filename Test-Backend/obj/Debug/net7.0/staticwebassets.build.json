@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pNtUVted+1GiRYSRpDt2HKUQnStykcSDQEHX2fPkbEI=",
+  "Hash": "k3V+H1I5i/r053hCb6k5sGHtyEZwgWK/hgHMIogNovY=",
   "Source": "Test-Backend",
   "BasePath": "_content/Test-Backend",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Test-Backend.styles.css",
-      "SourceId": "Test-Backend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Test-Backend",
-      "RelativePath": "Test-Backend.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Test-Backend.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Test-Backend.bundle.scp.css",
-      "SourceId": "Test-Backend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Test-Backend",
-      "RelativePath": "Test-Backend.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Test-Backend.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\Keeytari\\source\\repos\\Test-Backend\\Test-Backend\\wwwroot\\css\\site.css",
       "SourceId": "Test-Backend",

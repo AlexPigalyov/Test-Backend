@@ -4,8 +4,6 @@ C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-B
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.AssemblyInfo.cs
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.csproj.CoreCompileInputs.cache
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.RazorAssemblyInfo.cache
-C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.RazorAssemblyInfo.cs
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\bin\Debug\net7.0\appsettings.json
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\bin\Debug\net7.0\Test-Backend.staticwebassets.runtime.json
@@ -40,12 +38,11 @@ C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\static
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\scopedcss\bundle\Test-Backend.styles.css
-C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\scopedcss\projectbundle\Test-Backend.bundle.scp.css
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.csproj.CopyComplete
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.dll
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\refint\Test-Backend.dll
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.pdb
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\Test-Backend.genruntimeconfig.cache
 C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\obj\Debug\net7.0\ref\Test-Backend.dll
+C:\Users\Keeytari\source\repos\Test-Backend\Test-Backend\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll

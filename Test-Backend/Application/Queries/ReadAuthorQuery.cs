@@ -1,6 +1,6 @@
 ﻿using OneOf;
+using Test_Backend.API.Dtos;
 using Test_Backend.Application.Abstract.Queries;
-using Test_Backend.Domain.Dtos;
 
 namespace Test_Backend.Application.Queries
 {
